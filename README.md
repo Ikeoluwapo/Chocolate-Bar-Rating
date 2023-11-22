@@ -30,7 +30,7 @@ Business Questions:  but no limited to this explore more.
 [Chocolate Bar Dictionary](https://github.com/Ikeoluwapo/Chocolate-Bar-Rating/blob/e93370efd746fda89b9fb352948c16b94c4a00fa/Chocolate%20Data%20Dictionary.docx)
 
 ## Screenshots
-![Chocolate Bar](https://github.com/Ikeoluwapo/Excel-Journey-/blob/main/CHOCOLATE%20BAR.png?raw=true)
+![Chocolate Bar](https://github.com/Ikeoluwapo/Chocolate-Bar-Rating/blob/4fbfc99cd2d4b707d34046e19c1cbc3d7d33a465/CHOCOLATE%20BAR.png?raw=true)
 
 #### Let's Connect
 
